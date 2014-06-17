@@ -7,6 +7,7 @@ This is a application that access teamforge soap API.
 1.Try to login, keep the login context alive. 
 2.Retrive tracker basic information.
 3.Collect the flexible fields. 
+4.Dump List<Tracker> to a csv file.
 
 How to use:
 
